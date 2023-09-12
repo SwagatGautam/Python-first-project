@@ -1,0 +1,5 @@
+Blade,Razer,$1000,19790,i7 7th Gen,GTX 1650
+Stealth,MSI,$1976,7558,i9 9th Gen,GTX 3060
+Nitro5,Acer,$1978,9825,i5 10th Gen,GTX 3050
+Swift7,Acer,$900,1923,i9 9th Gen,GTX 1660
+Yoga,Lenovo,$3500,9973,i7 11th Gen,GTX 3060
